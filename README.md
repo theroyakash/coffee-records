@@ -8,4 +8,6 @@ This is app made of several types of coffee reciepe and wikipedia links, Cool Im
 
 ## Screenshots:
 
-- Coming soon 
+### This is Home Screen:
+
+![lightmode](https://imgur.com/egVrrbk)
